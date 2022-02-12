@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrien @Adzerty PESTEL
-- 👀 I’m interested in mobile app development
+- 👀 I’m interested in mobile app development / dynamic website (with REACT.js)
 - 🌱 I’m currently learning Next.JS
 
 <!---
